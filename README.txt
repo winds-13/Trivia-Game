@@ -1,10 +1,7 @@
 Name: 
 	Henry Tu
 
-Student Number:
-	101120384
-
-run:
+instructions:
 	install mongoDB
 	$ npm install
 	$ node server.js
